@@ -1,2 +1,2 @@
-require 'sinatra'
+require 'scotrug'
 run Sinatra::Application
