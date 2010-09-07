@@ -2,64 +2,12 @@
 layout: master
 title: Home
 ---
-
-<div id="page">
-
-
-<div id="header">
-    <h1><a href="http://scotrug.org/">Scottish Ruby User Group</a></h1>
-</div>
-<hr>
-  <div id="content" class="narrowcolumn">
-
-        <div class="post">    <h2 id="post-2">Scottish Ruby User Group</h2>
-      <div class="entrytext">       <p>The
-Scottish Ruby User Group is a collection of people who are linked with
-Scotland and have an interest in Ruby and, invariably, Ruby on Rails.
-We meet every month for presentations from members and guests and a chat about Ruby and Ruby Related events. Everybody is
-welcome and there are no subscriptions/costs involved.</p>
-<h3>Meetings</h3>
-<p>We meet on the
-third Thursday of the month at 19:30 onwards, at The Edinburgh Training Centre, 16 St. Marys Street, Edinburgh, EH1 1SU (<a href="http://maps.google.co.uk/maps?client=safari&q=EH1+1SU&oe=UTF-8&ie=UTF8&hl=en&hq=&hnear=Edinburgh+EH1+1SU,+United+Kingdom&z=15">Google map</a>).  The meeting room costs are covered by <a href="http://www.freeagentcentral.com/">FreeAgent Central</a>, who provide online Accounting Software for freelancers and small businesses (written in Rails). </p>
-<h4>Next Meeting</h4>
-<p>
-    The meeting on Thursday 19th August is a follow-up from the last meeting, <a href="http://vimeo.com/13614249">video here</a>, in which Brian Swan talked on how the style of Test Driven Development may affect the final design of the code under test.  This month's session will a 'recital' style coding Dojo in which a few of us will demonstrate solving the same problem using different styles. 
-</p>
-
-<h3>Mailing List / Google Group</h3>
-<p>You can subscribe to the mailing list using the&nbsp;<a href="http://groups.google.com/group/scotrug">ScotRUG Google Group information page</a>. The list is for announcements of&nbsp;<strong>ScotRUG</strong>&nbsp;activities
-and general support/discussion about Ruby (and Ruby on Rails!). Feel
-free to post any questions you have; we’re an open and friendly
-community. As of the last time I checked, the mailing list has around
-75 members.</p>
-<h3>Video</h3>
-
-<p>Videos of previous presentations, provided courtesy of <a href="http://edgecase.com">EdgeCase UK</a>, are available <a href="http://vimeo.com/edgecaseuk">here</a>.</p>
-
-<h3>IRC group</h3>
-<p>We now also have an IRC channel available. It’s pretty quiet at the
-moment, but I’m sure we’ll pick up a number of idlers now that it’s
-been announced. You can find us on <code>irc.freenode.net</code>&nbsp;in&nbsp;<code>#<strong>scotrug</strong></code>.</p>
-
-
-      </div>
-    </div>
-        </div>
-
-  <div id="sidebar">
-  </div>
-
-<hr>
-<div id="footer">
-  <p>
-  </p>
-</div>
+{% for post in site.posts %}
+<div class='post'>
+  <h2><a href='{{post.url}}'>{{post.title}}</a></h2>
+  <div class='date'>posted {{post.date | date_to_string}}</div>
+  <div class='body'>{{ post.content }}</div>
 </div>
 
-<!--
-  Gorgeous design by Samir M. Nassar - http://steamedpenguin.com/design/Steam/
-  Based on Kubrick by Michael Heilemann - http://binarybonsai.com/kubrick/
--->
-
-</body></html>
+{% endfor %}
 

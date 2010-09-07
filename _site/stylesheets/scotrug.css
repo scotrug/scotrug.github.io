@@ -1,0 +1,88 @@
+body{
+  font-family: Verdana,"Bitstream Vera Sans",sans-serif;
+  font-size: 86%;
+
+}
+
+h1, h1 a, h1 a:hover, h1 a:visited, .description
+{
+	text-decoration: none;
+	color: white;
+}
+
+h2, h2 a, h2 a:visited, h3, h3 a, h3 a:visited
+{
+	color: #333;
+}
+
+a, h2 a:hover, h3 a:hover
+{
+	color: #06c;
+	text-decoration: none;
+}
+h1
+{
+	padding-top: 10px;
+	margin: 0;
+}
+h1
+{
+	font-size: 3em;
+	text-align: center;
+}
+
+h1, h2, h3
+{
+	font-family: 'Bitstream Vera Sans', 'Lucida Grande', Verdana, Arial, 'sans-serif';
+	font-weight: bold;
+  padding: 5px 0;
+}
+#header {
+background-color:#73A0C5;
+height:55px;
+margin:0 auto;
+padding:0;
+width:100%;
+}
+#page {
+background-color:#FFFFFF;
+border:1px solid #959596;
+margin:20px auto;
+padding:0;
+text-align:left;
+width:92%;
+}
+#left {
+font-size: 0.9em;
+float: left;
+padding: 15px 0;
+width: 200px;
+
+}
+
+#left .section{
+  padding-bottom: 20px;
+}
+
+#posts{
+  padding: 20px 40px;
+  position: absolute;
+  left: 250px;
+}
+
+.post {
+}
+.post   h2{
+  font-size: 1.5em;
+}
+
+.post .date{
+font-size:60%;
+padding-bottom:10px;
+  
+}
+
+.post .body{
+}
+
+
