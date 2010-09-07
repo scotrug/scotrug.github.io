@@ -1,7 +1,8 @@
+require 'rubygems'
 require 'sinatra'
-require 'erb'
+
+set :public, Proc.new { File.join(root, "_site") }
 
 get '/' do
-  response.headers['Cache-Control'] = 'public, max-age=1800'
-  erb :index
+  File.read('_site/index.html')
 end
