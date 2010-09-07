@@ -77,6 +77,10 @@ width: 200px;
   font-size: 1.5em;
 }
 
+.post p{
+  padding: 5px 0;
+}
+
 .post .date{
 font-size:60%;
 padding-bottom:10px;
