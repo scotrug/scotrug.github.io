@@ -1,6 +1,6 @@
 ---
-title: September meeting
 layout: post
+title: September meeting
 ---
 
 By popular demand the next meeting will be an interactive session on "Ruby Koans":http://rubykoans.com/.  Bring your laptops for some fun coding.  Kickoff will be at 19:30 with a walkthrough.  Then we will pair up and code through some more.  We will have a debrief at the end followed (no doubt) by a visit to the Holyrood Tavern.
