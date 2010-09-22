@@ -90,4 +90,16 @@ padding-bottom:10px;
 .post .body{
 }
 
+.section img{
+  padding: 15px 0 5px;
+}
 
+
+.post ul{
+  padding: 5px 0
+}
+
+.post li {
+  padding: 3px 0;
+  list-style: disc inside;
+}
