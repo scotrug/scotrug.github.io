@@ -1,6 +1,4 @@
 body{
- 	/*font-family: Verdana,"Bitstream Vera Sans",sans-serif;
-	    font-size: 86%;*/
 		margin: 0px;
 		padding: 0px;
 		background: #3877bc url(/images/bkg.jpg) repeat left top;
@@ -48,6 +46,9 @@ a:hover{
 	font-size: 3.5em;
 	font-weight: normal;
 	color: #FFFFFF;
+	
+	text-shadow: 1px 1px 1px #000;
+	filter: dropshadow(color=#000, offx=1, offy=1);
 }
 #header a{
 	color: white;
@@ -65,10 +66,12 @@ a:hover{
 	height: 35px;
 	padding-top: 19px;
 	margin-top: 80px;
+	margin-right: 0px;
 }
 
 #header #twitter a{
 	color: #97b2d5;
+	
 }
 
 #left {
@@ -94,28 +97,27 @@ a:hover{
 	font-size: 1.5em;
 	font-weight: normal;
 	color: #FFFFFF;
+	
+	text-shadow: 1px 1px 1px #000;
+	filter: dropshadow(color=#000, offx=1, offy=1);
 }
 
 #posts{
   	margin-top: 50px;
-	background: url(/images/top_posts_bkg.png) no-repeat 2px top;
-	width: 660px;
+	width: 600px;
 	position: absolute;
     left: 420px;
 	font-size: 1.2em;
-	padding: 40px 0px 0px 0px;
-}
+	padding: 40px 30px 10px 30px;
 
-#posts #content{
-	background: url(/images/posts_bkg.png) repeat-y left top;
-	padding-left: 50px;
-	padding-right: 50px;
-	padding-top: 10px;
-}
-
-#posts #blank{
-	background: url(/images/bottom_posts_bkg.png) no-repeat 1px top;
-	height: 100px;
+	background-color: #fff;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	
+	-webkit-box-shadow: 0px 0px 20px #212552;
+	-moz-box-shadow: 0px 0px 20px #212552;
+	box-shadow: 0px 0px 20px #212552;
 }
 
 .post {
