@@ -27,7 +27,7 @@ a:hover{
 	margin:20px auto;
 	padding:0;
 	text-align:left;
-	width:80%;
+	width:980px;
 }
 
 #header {	
@@ -71,14 +71,23 @@ a:hover{
 
 #header #twitter a{
 	color: #97b2d5;
+}
+
+#content {
+	background: url(/images/inner_bkg.jpg) repeat left top;
+	padding: 20px;
 	
+	margin-top: 30px;
+	
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
 }
 
 #left {
 	font-size: 1.2em;
 	float: left;
-	width: 300px;
-	margin-top: 50px;
+	width: 280px;
 	color: #b9d2f1;
 }
 
@@ -103,10 +112,11 @@ a:hover{
 }
 
 #posts{
-  	margin-top: 50px;
+  	/*margin-top: 50px;*/
 	width: 600px;
-	position: absolute;
-    left: 420px;
+	/*position: absolute;
+	    left: 420px;*/
+	margin-left: 280px;
 	font-size: 1.2em;
 	padding: 40px 30px 10px 30px;
 
