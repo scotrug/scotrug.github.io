@@ -5,8 +5,8 @@ before do
 end
 
 
-set :public, Proc.new { File.join(root, "serve") }
+set :public, Proc.new { File.join(root, "_site") }
 
 get '/' do
-  File.read('serve/index.html')
+  File.read('_site/index.html')
 end
