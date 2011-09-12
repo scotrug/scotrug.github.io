@@ -18,4 +18,4 @@ The cartoon below may be relevant:
 </a>
 
 
-We will be at the usual place, [The Edinburgh Training Centre](http://maps.google.co.uk/maps?client=safari&q=EH1+1SU&oe=UTF-8&ie=UTF8&hl=en&hq=&hnear=Edinburgh+EH1+1SU,+United+Kingdom&z=15) on Thursday 15th September, starting at 19:30. Please try and be a little early.
+We will be at the usual place, [The Edinburgh Training Centre](http://maps.google.co.uk/maps?client=safari&q=EH1+1SU&oe=UTF-8&ie=UTF8&hl=en&hq=&hnear=Edinburgh+EH1+1SU,+United+Kingdom&z=15) on Thursday 15th September, starting at 19:30.
