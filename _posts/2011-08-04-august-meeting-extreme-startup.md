@@ -3,10 +3,13 @@ layout: post
 title: August 18 2011, Edinburgh Meeting - Extreme Startup
 ---
 
+*UPDATE*: [Sam Elliot](http://twitter.com/lenary) won the contest by a long nose with the code [here](https://gist.github.com/f07721b1d116a3129c9c).
+
 Another month, another exciting meeting. This month [Robert Chatley](http://chatley.com) and [Matt Wynne](http://twitter.com/mattwynne) will be running their Extreme Startup session, [first shown at XP2011](http://chatley.com/posts/05-27-2011/extreme-startup/).  Here's the gen from Robert:
 
 Extreme Startup
 ===============
+
 
 In this hands-on workshop we aim to simulate product teams building
 software and delivering it into a market. Attendees form teams and
