@@ -10,7 +10,10 @@ We will be at the usual place, "The Edinburgh Training Centre":http://maps.googl
 
 *UPDATE* Here is the video from that meeting.
 
-<iframe src="http://player.vimeo.com/video/27161529" width="400" height="225" frameborder="0"></iframe><p><a href="http://vimeo.com/27161529">ScotRUG20110721JoeOBrien</a> from <a href="http://vimeo.com/edgecaseuk">Edge Case UK</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe src="http://player.vimeo.com/video/27161529" width="400" height="225" frameborder="0">
+</iframe>
+
+<p><a href="http://vimeo.com/27161529">ScotRUG20110721JoeOBrien</a> from <a href="http://vimeo.com/edgecaseuk">Edge Case UK</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 
 
 
