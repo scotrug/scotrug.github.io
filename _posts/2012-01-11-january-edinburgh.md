@@ -1,6 +1,6 @@
 ---
 layout: post
-title: January ScotRUG Edinburgh - 19 January
+title: January ScotRUG Edinburgh - 19 January 2012
 ---
 
 Thanks to strategic powercuts and other ridiculous problems, the December ScotRUG did not quite go to plan. But next week we will be back on form. We have 3 (3!!!) talks lined up, plus free (as in beer) beer from [FreeAgent](http://freeagent.com). Yay!

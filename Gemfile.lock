@@ -1,12 +1,7 @@
-GIT
-  remote: http://github.com/GnomesLab/liquid.git
-  revision: 96a75a0
-  specs:
-    liquid (3.0.0.alpha)
-
 GEM
   remote: http://rubygems.org/
   specs:
+    RedCloth (4.2.9)
     classifier (1.3.3)
       fast-stemmer (>= 1.0.0)
     directory_watcher (1.3.2)
@@ -16,6 +11,7 @@ GEM
       directory_watcher (>= 1.1.1)
       liquid (>= 1.9.0)
       maruku (>= 0.5.9)
+    liquid (2.3.0)
     maruku (0.6.0)
       syntax (>= 1.0.0)
     rack (1.2.1)
@@ -29,6 +25,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  RedCloth
   jekyll
-  liquid!
+  liquid (>= 1.9.0)
   sinatra (= 1.1.0)
