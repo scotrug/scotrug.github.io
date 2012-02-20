@@ -14,3 +14,5 @@ Already we have the videos from the February ScotRUG: [Phil Roberts](http://twit
 </iframe>
 [Part 2](http://player.vimeo.com/video/36975604)
 
+Thanks to [Marius](https://twitter.com/MariusCiocanel) for the videoing.
+
