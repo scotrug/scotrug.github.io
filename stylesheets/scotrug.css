@@ -15,6 +15,11 @@ h1, h2, h3 {
   color: #000000;
 }
 
+.post h1, .post h2, .post h3{
+  font-size: 1.1em;
+  padding: 20px 0 10px;
+}
+
 a{
   color: #333;
   text-decoration: underline;
@@ -185,3 +190,5 @@ code{
 iframe {
   padding: 20px;
 }
+
+
