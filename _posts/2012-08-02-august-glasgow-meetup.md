@@ -1,6 +1,6 @@
 ---
 layout: post
-title: August ScotRUG Glasgow - 2 August 2012
+title: Glasgow August ScotRUG - 2 August 2012
 ---
 
 This month's Glasgow meetup will be a leisurely trip to the pub for some chat and beer.
