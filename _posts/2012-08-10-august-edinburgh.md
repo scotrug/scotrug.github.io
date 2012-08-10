@@ -8,4 +8,6 @@ August is an exciting time to be in Edinburgh, not least because of our exciting
 * [Pat Allen](https://twitter.com/pat) will be talking on building gems from scratch. Pat is well-known for [Thinking Sphinx](http://freelancing-god.github.com/ts/en/), travelling the world, and being an all-round top-bloke.
 * [Sam Elliot](https://twitter.com/lenary) will be bending minds, relating abstraction and Haskell to Ruby.  Sam last entertained his with his [Dusty Corenrs of Ruby](http://scotrug.org/2012/02/12/video-dusty-crevices-of-ruby.html) talk in January.
 
+The talks will take place at Fringe Venue #AF27.  No, it won't: it will be at the [FreeAgent offices](http://www.freeagentcentral.com/) as usual.
+
 
