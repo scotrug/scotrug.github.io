@@ -1,15 +1,16 @@
 ---
 layout: post
-title: Edinburgh August ScotRUG - 16 August 2012
+title: Glasgow September ScotRUG - 06 September 2012
 ---
 
-August is an exciting time to be in Edinburgh, not least because of our exciting Ruby Festival lineup of:-
+September we have [T.J. Sheehy](http://twitter.com/tjsheehy) bringing the wisdom of Charlie Chaplin to Glasgow ruby user group.
 
-* [Pat Allan](https://twitter.com/pat) will be talking on building gems from scratch. Pat is well-known for [Thinking Sphinx](http://freelancing-god.github.com/ts/en/), travelling the world, and being an all-round top-bloke.
-* [Sam Elliot](https://twitter.com/lenary) will be bending minds, relating Erlang to Ruby.  Sam last entertained his with his [Dusty Corners of Ruby](http://scotrug.org/2012/02/12/video-dusty-crevices-of-ruby.html) talk in January.
+Chaplin's Craft:
 
-The talks will take place at Fringe Venue #AF27, the [FreeAgent offices](http://www.freeagentcentral.com/) (as usual) at 19:30.
+Charles Chaplin was intimately involved in crafting every part of his movies. His development techniques and approach to story design challenged the popular film making techniques of his day. What are the similarities and differences between Chaplin's film making approach and how we create software? What insights can we gather from his work to help improve our own craft?
 
-*Update*: Changed the date to reflect reality.
-*Update*: Changed Sam's talk.
+As usual it will all take place at [SocietyM](https://maps.google.co.uk/maps?q=societyM+glasgow&ll=55.866125,-4.254284&spn=0.006971,0.01929&hq=societyM&hnear=Glasgow,+Glasgow+City,+United+Kingdom&t=h&z=16) starting at 7pm.
+
+Thanks as always to [New Context](http://newcontext.com) for sponsoring the venue.
+
 
