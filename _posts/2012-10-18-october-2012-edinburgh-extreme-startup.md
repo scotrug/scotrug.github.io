@@ -1,6 +1,6 @@
 ---
 layout: post
-title: August 18 2011, Edinburgh Meeting - Extreme Startup
+title: 18 October 2012, Edinburgh Meeting - Extreme Startup
 ---
 
 This month is a Extreme Startup again.  See below for the description from [XP 2012](http://xp2011.org/content.apthisId=185&contentId=184).
