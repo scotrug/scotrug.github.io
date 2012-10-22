@@ -3,7 +3,7 @@ layout: post
 title: Steven Baker  - Thursday 8th November 2012 Glasgow meeting
 ---
 
-For the October meetup we have [Steven Baker](http://twitter.com/srbaker) will be joining us all the way from Canada.
+For the November meetup we have [Steven Baker](http://twitter.com/srbaker) will be joining us all the way from Canada.
 
 ###Bio:
 Steven Baker is the one of the key figures in the Ruby community. He
