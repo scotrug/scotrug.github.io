@@ -21,7 +21,7 @@ found at [http://stevenbaker.com](http://stevenrbaker.com/)
 
 
 ###Talk:
-More info soon.
+Steven will be talking on the SOLID principles.
 
 The meetup is being held at the usual venue [SocietyM](https://maps.google.co.uk/maps?q=societyM+glasgow&ll=55.866125,-4.254284&spn=0.006971,0.01929&hq=societyM&hnear=Glasgow,+Glasgow+City,+United+Kingdom&t=h&z=16), 6:30pm for 7pm.
 
