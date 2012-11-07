@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 15 October 2012, Edinburgh Meeting - People Patterns in depth with Joe O'Brien
+title: 15 November 2012, Edinburgh Meeting - People Patterns in depth with Joe O'Brien
 ---
 
 > No matter what they tell you, it's always a people problem- [Jerry Weinberg](http://www.geraldmweinberg.com/Site/Home.html)
