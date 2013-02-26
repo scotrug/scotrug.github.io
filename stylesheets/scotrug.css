@@ -28,6 +28,7 @@ a:hover{
   text-decoration: underline;
 }
 
+
 code{
   background: #dfdfdf;
   display: block;
@@ -43,12 +44,12 @@ code{
   width:980px;
 }
 
-#header {	
+#header {
   background: url(/images/ruby.png) no-repeat left bottom;
   height:120px;
   margin:0 auto;
   padding:0;
-  width:100%;	
+  width:100%;
 }
 #header h1 {
   margin-left:80px;
@@ -65,11 +66,11 @@ code{
 }
 #header a{
   color: white;
-  text-decoration: none;	
+  text-decoration: none;
 }
 
 #header h1 a:hover{
-  text-decoration: none;	
+  text-decoration: none;
 }
 
 #header #twitter{
@@ -147,7 +148,7 @@ code{
   padding-bottom: 50px;
 }
 .post h2{
-  font-size: 2em; 
+  font-size: 2em;
   color: #96233c;
 }
 
@@ -192,3 +193,8 @@ iframe {
 }
 
 
+.section .meeting-heading {
+  font-size: 1.3em !important;
+  margin-bottom: 3px !important;
+  margin-top: 5px;
+}
