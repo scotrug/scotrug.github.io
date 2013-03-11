@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'bundler/setup'
 
-require 'scotrug'
+require File.join(File.dirname(__FILE__), 'scotrug')
 
 run Sinatra::Application
