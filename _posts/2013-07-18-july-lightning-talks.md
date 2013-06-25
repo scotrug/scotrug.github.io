@@ -1,9 +1,9 @@
 ---
 layout: post
-title: July 18 Lightning talks
+title: Edinburgh July 18 Lightning talks
 ---
 
-We'll be back at our usual haunt in FreeAgent Towers in July for a series of fun-fun lightning talks.
+We'll be back at our usual Ediburgh haunt of FreeAgent Towers in July for a series of fun-fun lightning talks.
 
 John Daniels will be talking to us about private clouds.
 
