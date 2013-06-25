@@ -7,9 +7,11 @@ We'll be back at our usual Edinburgh haunt of FreeAgent Towers in July for a ser
 
 John Daniels will be talking to us about private clouds.
 
-Phillip Robers will be talking about dropping the asset pipeline for grunt and browserify.
+Phillip Robers <strike>will</strike> might be talking about dropping the asset pipeline for grunt and browserify.
 
 Ryan Stenhouse will be talking about Twillio.
+
+Michael Carruthers will be talking about DTrace and Ruby.
 
 There's still a couple of slots left if anyone else wants to speak, just hit up the mailing list.
 
