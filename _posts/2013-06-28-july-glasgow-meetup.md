@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Glasgow July 2nd RubyCoffee
+title: Glasgow July 4th RubyCoffee
 ---
 July's Glasgow ScotRUG is going to be a slightly different format from ususal. If you've been along to a LeanAgileGlasgow meetup it will be very familiar.
 
