@@ -10,3 +10,5 @@ Join us at [FreeAgent](http://www.freeagent.com/company/contact-us) for 19:30 fo
 * What can we put in place to ensure that it keeps happening?
 
 See you there.
+
+*Update*: [Olly](https://twitter.com/lylo) has put up a Lanyrd page. Please sign up [here](http://lanyrd.com/2013/scotrug/).
