@@ -2,4 +2,6 @@ source 'http://rubygems.org'
 
 gem "jekyll"
 gem 'RedCloth'
-gem 'thin'
+
+gem 'puma'
+gem 'rack-contrib'

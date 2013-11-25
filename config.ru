@@ -1,6 +1,10 @@
-require 'rubygems'
-require 'bundler/setup'
+require 'rack/contrib/try_static'
+require 'rack/contrib/not_found'
 
-require File.join(File.dirname(__FILE__), 'scotrug')
+use Rack::TryStatic,
+  :root => "_site",
+  :urls => %w[/],
+  :try  => ['index.html', '/index.html']
 
-run Sinatra::Application
+run Rack::NotFound.new('_site/index.html')
+
