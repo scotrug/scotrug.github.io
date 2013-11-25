@@ -1,6 +1,8 @@
 source 'http://rubygems.org'
+ruby '2.0.0'
 
-gem "sinatra", "1.1.0"
-gem "liquid", ">= 1.9.0"
 gem "jekyll"
 gem 'RedCloth'
+
+gem 'puma'
+gem 'rack-contrib'

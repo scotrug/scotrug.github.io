@@ -6,3 +6,4 @@
 .rvmrc
 bin/
 /.bundle
+_site/
