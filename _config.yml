@@ -1,3 +1,2 @@
-server: true
 permalink: date
 exclude: [config.ru, Gemfile, Gemfile.lock, Procfile, Rakefile, README.md, vendor]
