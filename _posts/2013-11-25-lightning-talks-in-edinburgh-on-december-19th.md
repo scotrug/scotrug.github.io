@@ -7,4 +7,11 @@ During the well-attended December meeting in Edinburgh, we decided to hold the p
 
 Please volunteer on the [mailing list](mailto:scotrug@googlegroups.com), and watch out here and on [Twitter](https://twitter.com/scotrug) for details.
 
+So far we have:
+
+* Paul Wilson: in introduction to Elixir.
+* Paul Smith: the different way we're using cucumber at FreeAgent.
+* Irina Bednova: Pry.
+* Ryan Stenhouse: A short talk on / in Klingon.
+
 
