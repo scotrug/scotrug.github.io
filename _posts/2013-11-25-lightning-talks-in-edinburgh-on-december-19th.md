@@ -12,7 +12,7 @@ So far we have:
 * Paul Wilson: in introduction to Elixir.
 * Paul Smith: the different way we're using cucumber at FreeAgent.
 * Irina Bednova: Pry.
-* Ryan Stenhouse: ngaj tlhIngan yIjatlh. (A short Klingon talk)
-* Iain Broadfoot: Ember
+* Ryan Stenhouse: ngaj tlhIngan yIjatlh. (A short Klingon talk).
+* Iain Broadfoot: Ember.
 
 
