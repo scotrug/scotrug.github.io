@@ -31,12 +31,8 @@
       <div class="section">
         <h2>Meetings</h2>
         <h3 class='meeting-heading'>Glasgow</h3>
-        <p>We usually meet on the
-          First Thursday of the month at 18:30 onwards, at the Fuzzy Orange offce at the <a href="https://maps.google.co.uk/maps?q=G3+8AZ&hl=en&sll=53.800651,-4.064941&sspn=15.822054,30.080566&t=h&hnear=Glasgow+G3+8AZ,+United+Kingdom&z=17">Pentagon Centre,
-Unit 313,
-Glasgow,
-G3 8AZ
-</a>.
+        <p>We meet on the
+          First Thursday of the month at 18:30 onwards, at the <a href="http://www.citizenm.com/societym-glasgow/">SocietyM</a>: <a href="">60 Renfrew St, Glasgow, G3</a>, near Cineworld.
           </p>
         <h3 class='meeting-heading'>Edinburgh</h3>
         <p>We meet on the
@@ -72,7 +68,35 @@ G3 8AZ
       </div>
     </div>
     <div id="posts">
-      {{content}}
+      <div class='post'>
+  <h2><a href='/2012/10/18/october-2012-edinburgh-extreme-startup.html'>18 October 2012, Edinburgh Meeting - Extreme Startup</a></h2>
+  <div class='date'>posted 18 Oct 2012</div>
+  <div class='body'><p>This month is a Extreme Startup again. See below for the description from <a href='http://xp2011.org/content.apthisId=185&amp;contentId=184'>XP 2012</a>.</p>
+
+<h1 id='extreme_startup'>Extreme Startup</h1>
+
+<p>In this hands-on workshop we aim to simulate product teams building software and delivering it into a market. Attendees form teams and compete to build the best product. Through the session you can continue to refine and upgrade your software, releasing new versions and testing their performance in the market. Once your software is live it will begin to accrue points, as simulated users use the software and score it against how well it fits their needs. The earlier you release your software, the sooner you will start accruing points, and the earlier you can learn something about the market, which should inform your next iteration. In the lean startup movement, this is know as the Build-Measure-Learn cycle.</p>
+
+<p>Attendees of this session will need to build a very simple webapp, probably as part of a pair or a small team, so you will need at least one laptop per team.</p>
+
+<p>So that we can get started quickly, it would be helpful if participants could do a little bit of preparatory work. Set up a minimal webapp running locally on your machine that handles a GET request, with a request param &#8216;q&#8217;, (e.g. http://localhost:4567/?q=Adam) and returns a plain text response. For example, using Sinatra:</p>
+
+<pre><code>require &#39;rubygems&#39;
+require &#39;sinatra&#39;
+
+configure do
+  set :port, 4567
+end
+
+get &#39;/&#39; do
+  q = params[:q]
+  &quot;Hello #{q}&quot;
+end</code></pre></div>
+</div>
+<p>
+<a href="/">All posts</a>
+</p>
+
     </div>
 
 	<div class="reset_float"></div>
