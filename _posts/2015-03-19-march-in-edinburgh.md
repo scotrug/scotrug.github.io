@@ -3,13 +3,13 @@ layout: post
 title: 19th March Edinburgh Meetup
 ---
 
-We're going to learn something about cryptography by doing some Metasano Crypto Challenges in Ruby from http://cryptopals.com/
+We're going to learn something about cryptography by doing some Metasano Crypto Challenges in Ruby from [http://cryptopals.com/](http://cryptopals.com/).
 
 No knowledge of cryptography is needed.
 
 We had a go at some of these in January and people liked it. So we're going to do some again.
 
-Interested? Just turn up!
+Interested? Just turn up! It would be nice if you signed up on our [Meetup page](http://www.meetup.com/meetup-group-Xwgucjde/events/221212356/), though.
 
 __Venue__
 
