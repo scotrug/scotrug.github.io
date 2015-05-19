@@ -161,6 +161,11 @@ code{
   padding: 5px 0;
 }
 
+
+#left p{
+  margin: 0.5em 0;
+}
+
 .post .date{
   font-size:60%;
   padding-bottom:10px;
