@@ -1,2 +1,2 @@
 permalink: date
-exclude: [config.ru, Gemfile, Gemfile.lock, Procfile, Rakefile, README.md, vendor]
+exclude: [config.ru, Gemfile, Gemfile.lock, Procfile, Rakefile, README.md, vendor, Dockerfile, docker-compose.yml, README.markdown, gen.rb, scotrug.rb]
