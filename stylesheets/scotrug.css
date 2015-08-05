@@ -37,6 +37,11 @@ code{
   color: black;
 }
 
+blockquote {
+    margin-left: 0.8em;
+    font-style: italic;
+}
+
 #page {
   margin:20px auto;
   padding:0;
