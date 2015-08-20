@@ -2,6 +2,8 @@
 
 The source for the [ScotRUG][] site, run by [Jekyll][].  Any help making it pretty would be much appreciated.  Please fork and send a pull request. 
 
+Currently transferring from Heroku to github pages.
+
 ## Running the site locally
 
 The first time you run the site, and any time you change the Gemfile you'll
