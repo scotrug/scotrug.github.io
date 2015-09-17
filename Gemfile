@@ -1,4 +1,4 @@
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 
 ruby File.read(File.expand_path('../.ruby-version', __FILE__)).chomp
 
@@ -9,3 +9,4 @@ gem 'puma'
 gem 'rack-contrib'
 gem 'therubyracer'
 gem 'github-pages'
+gem 'bundler-audit'
