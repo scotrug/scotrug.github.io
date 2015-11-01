@@ -49,47 +49,36 @@ blockquote {
   width:980px;
 }
 
-#header {
+.header {
   background: url(/images/ruby.png) no-repeat left bottom;
-  height:120px;
-  margin:0 auto;
-  padding:0;
-  width:100%;
+  padding: 70px 0 3px 0;
 }
-#header h1 {
+
+.header h1 {
   margin-left:80px;
-  padding: 70px 0px 0 0px;
-  width: 400px;
   text-transform: lowercase;
   letter-spacing: -3px;
   font-size: 3.5em;
-  font-weight: normal;
   color: #FFFFFF;
-
   text-shadow: 1px 1px 1px #000;
   filter: dropshadow(color=#000, offx=1, offy=1);
 }
-#header a{
+
+.header a {
   color: white;
   text-decoration: none;
 }
 
-#header h1 a:hover{
-  text-decoration: none;
-}
-
-#header #twitter{
-  float:right;
-  background: url(/images/twitter.png) no-repeat right top;
-  width: 130px;
-  height: 35px;
-  padding-top: 19px;
-  margin-top: 80px;
-  margin-right: 0px;
-}
-
-#header #twitter a{
-  color: #97b2d5;
+.twitter-link {
+  background: url(/images/twitter-white.png) no-repeat left top;
+  background-size: 32px 32px;
+  font-size: 1.2em;
+  float: right;
+  height: 32px;
+  margin-top: 17px;
+  margin-right: 20px;
+  padding-top: 8px;
+  padding-left: 32px;
 }
 
 #content {
