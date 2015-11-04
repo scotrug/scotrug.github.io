@@ -2,12 +2,10 @@
 layout: master
 title: Home
 ---
-{% for post in site.posts  %}
+{% for post in site.posts %}
 <div class='post'>
   <h2><a href='{{post.url}}'>{{post.title}}</a></h2>
   <div class='date'>posted {{post.date | date_to_string}}</div>
-  <div class='body'>{{ post.content }}</div>
+  <div class='body'>{{ post.content | replace:'<iframe','<!-- <iframe' | replace:'</iframe>','</iframe> -->' }}</div>
 </div>
-
 {% endfor %}
-
