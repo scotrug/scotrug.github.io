@@ -1,67 +1,37 @@
-body{
-  margin: 0px;
-  padding: 0px;
+body {
+  margin: 20px auto;
+  padding: 0;
   background: #3877bc url(/images/bkg.jpg) repeat left top;
-  text-align: justify;
   font: 12px Arial, Helvetica, sans-serif;
   color: #666363;
-
+  width: 980px;
 }
 
 h1, h2, h3 {
-  font-size: 1.82em;
   font-weight: normal;
-  font-family: Arial, Helvetica, sans-serif;
-  color: #000000;
 }
 
-.post h1, .post h2, .post h3{
-  font-size: 1.1em;
-  padding: 20px 0 10px;
-}
-
-a{
+a {
   color: #333;
-  text-decoration: underline;
-}
-a:hover{
-  text-decoration: underline;
-}
-
-
-code{
-  background: #dfdfdf;
-  display: block;
-  padding-left: 40px;
-  margin: 20px 0;
-  color: black;
 }
 
 blockquote {
-    margin-left: 0.8em;
-    font-style: italic;
-}
-
-#page {
-  margin:20px auto;
-  padding:0;
-  text-align:left;
-  width:980px;
+  margin-left: 0.8em;
+  font-style: italic;
 }
 
 .header {
   background: url(/images/ruby.png) no-repeat left bottom;
-  padding: 70px 0 3px 0;
+  padding-top: 70px;
+  padding-bottom: 3px;
 }
 
 .header h1 {
-  margin-left:80px;
-  text-transform: lowercase;
+  margin-left: 80px;
   letter-spacing: -3px;
   font-size: 3.5em;
-  color: #FFFFFF;
-  text-shadow: 1px 1px 1px #000;
-  filter: dropshadow(color=#000, offx=1, offy=1);
+  color: white;
+  text-shadow: 1px 1px 1px black;
 }
 
 .header a {
@@ -84,11 +54,7 @@ blockquote {
 #content {
   background: url(/images/inner_bkg.jpg) repeat left top;
   padding: 20px;
-
   margin-top: 30px;
-
-  -webkit-border-radius: 20px;
-  -moz-border-radius: 20px;
   border-radius: 20px;
 }
 
@@ -97,85 +63,71 @@ blockquote {
   float: left;
   width: 280px;
   color: #b9d2f1;
+  margin-top: -20px;
 }
 
-#left .section{
-  padding: 0px 20px 20px 0px;
+#left p {
+  padding-right: 20px;
+  margin: 0.5em 0;
 }
 
-#left a{
+#left a {
   color: white;
 }
 
-#left .section h2, #left .section h3{
-  text-transform: lowercase;
+#left h2 {
+  padding-top: 20px;
   margin-bottom: 15px;
   letter-spacing: -1px;
   font-size: 1.5em;
-  font-weight: normal;
-  color: #FFFFFF;
-
-  text-shadow: 1px 1px 1px #000;
-  filter: dropshadow(color=#000, offx=1, offy=1);
+  color: white;
+  text-shadow: 1px 1px 1px black;
 }
 
-#posts{
-  /*margin-top: 50px;*/
+#left img {
+  padding: 15px 0 5px;
+}
+
+#posts {
   width: 600px;
-  /*position: absolute;
-  left: 420px;*/
   margin-left: 280px;
   font-size: 1.2em;
   padding: 40px 30px 10px 30px;
-
-  background-color: #fff;
-  -webkit-border-radius: 15px;
-  -moz-border-radius: 15px;
+  background-color: white;
   border-radius: 15px;
-
-  -webkit-box-shadow: 0px 0px 20px #212552;
-  -moz-box-shadow: 0px 0px 20px #212552;
   box-shadow: 0px 0px 20px #212552;
 }
 
 .post {
   padding-bottom: 50px;
 }
-.post h2{
+
+.post h1, .post h2, .post h3 {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.post h2 {
   font-size: 2em;
   color: #96233c;
 }
 
-.post h2 a{
+.post h2 a {
   color: #96233c;
   text-decoration: none;
 }
 
-.post p{
+.post p {
   padding: 5px 0;
 }
 
-
-#left p{
-  margin: 0.5em 0;
-}
-
-.post .date{
+.post .date {
   font-size:60%;
   padding-bottom:10px;
-
 }
 
-.post .body{
-}
-
-.section img{
-  padding: 15px 0 5px;
-}
-
-
-.post ul{
-  padding: 5px 0
+.post ul {
+  padding: 5px 0;
 }
 
 .post li {
@@ -189,11 +141,4 @@ blockquote {
 
 iframe {
   padding: 20px;
-}
-
-
-.section .meeting-heading {
-  font-size: 1.3em !important;
-  margin-bottom: 3px !important;
-  margin-top: 5px;
 }
