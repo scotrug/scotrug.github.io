@@ -20,6 +20,18 @@ blockquote {
   font-style: italic;
 }
 
+code {
+  font-family: monospace;
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold;
+}
+
 .header {
   background: url(/images/ruby.png) no-repeat left bottom;
   padding-top: 70px;
