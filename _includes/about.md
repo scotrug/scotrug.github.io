@@ -16,12 +16,10 @@ Meetings are announced in advance on the [mailing list][] and
 
 ## Glasgow
 
-We meet in Glasgow at 18:30 on the first Thursday of the month.  The
-next Glasgow meeting will be in [tictoc][]’s office on
-[Newton Terrace][], off Sauchiehall Street.
-
-[tictoc]: http://www.tictocfamily.com/
-[Newton Terrace]: https://www.openstreetmap.org/way/4642296#map=17/55.86572/-4.27479 "Map"
+We meet in Glasgow at 18:30 on the first Thursday of the month.  This
+month we will be at the
+[CCA Saramango Café Bar](http://www.cca-glasgow.com/saramago-caf/saramago-caf-bar)
+on [Sauchiehall Street](https://opentechcalendar.co.uk/map?venue=12-cca-centre-for-contemporary-arts).
 
 
 ## Edinburgh

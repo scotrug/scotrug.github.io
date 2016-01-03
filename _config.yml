@@ -1,2 +1,5 @@
 permalink: date
 exclude: [config.ru, Gemfile, Gemfile.lock, Procfile, Rakefile, README.md, vendor, Dockerfile, docker-compose.yml, README.markdown, gen.rb, scotrug.rb]
+
+# Allow using the meeting date for posts.
+future: true
