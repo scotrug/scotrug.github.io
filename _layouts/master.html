@@ -2,10 +2,17 @@
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Scottish Ruby User Group</title>
+    {% capture title %}{% if page.title %}{{ page.title }} | {% endif %}Scottish Ruby User Group{% endcapture %}
+    <title>{{ title }}</title>
     <link rel="stylesheet" href="/style.css" media="screen">
     <link rel="index" title="Scottish Ruby User Group" href="http://scotrug.org/">
     <link rel="canonical" href="http://scotrug.org/">
+    {% if page.excerpt %}
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@scotrug">
+    <meta name="og:title" content="{{ title }}">
+    <meta name="og:description" content="{{ page.excerpt | strip_html }}">
+    {% endif %}
   </head>
   <body>
     <div class="header">
