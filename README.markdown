@@ -1,5 +1,7 @@
 # ScotRUG Site
 
+[![Join the chat at https://gitter.im/scotrug/scotrug.github.io](https://badges.gitter.im/scotrug/scotrug.github.io.svg)](https://gitter.im/scotrug/scotrug.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The source for the [ScotRUG][] site, run by [Jekyll][].  Any help making it pretty would be much appreciated.  Please fork and send a pull request. 
 
 Currently transferring from Heroku to github pages.
