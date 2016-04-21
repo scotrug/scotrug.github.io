@@ -4,6 +4,6 @@ exclude: [config.ru, Gemfile, Gemfile.lock, Procfile, Rakefile, README.md, vendo
 # Allow using the meeting date for posts.
 future: true
 
-markdown: redcarpet
-redcarpet:
-  extensions: ["strikethrough"]
+markdown: kramdown
+kramdown:
+  input: GFM
