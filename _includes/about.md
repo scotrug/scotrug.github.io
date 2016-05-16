@@ -2,7 +2,7 @@
 
 The Scottish Ruby User Group is a collection of people who are linked
 with Scotland and have an interest in [Ruby][] and [Ruby on Rails][].
-We meet every month in [Glasgow](#glasgow) and [Edinburgh](#edinburgh)
+We meet every month in [Edinburgh](#edinburgh)
 for presentations from members and guests, and a chat about Ruby and
 related subjects.  All are welcome, and there are no subscriptions or
 costs involved.
