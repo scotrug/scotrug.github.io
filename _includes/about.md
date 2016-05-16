@@ -14,14 +14,6 @@ Meetings are announced in advance on the [mailing list][] and
 [Ruby on Rails]: http://rubyonrails.org/
 
 
-## Glasgow
-
-We meet in Glasgow at 18:30 on the first Thursday of the month.  This
-month we will be at the
-[CCA Saramango Café Bar](http://www.cca-glasgow.com/saramago-caf/saramago-caf-bar)
-on [Sauchiehall Street](https://opentechcalendar.co.uk/map?venue=12-cca-centre-for-contemporary-arts).
-
-
 ## Edinburgh
 
 We meet in Edinburgh on the third Thursday of the month at 19:30
