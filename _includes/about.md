@@ -16,15 +16,14 @@ Meetings are announced in advance on the [mailing list][] and
 
 ## Edinburgh
 
-We meet in Edinburgh on the third Thursday of the month at 19:30
-onwards.  While [FreeAgent][] are busy moving offices, meetings are
-currently at [CodeBase][], in Argyle House on the corner of
-[West Port and Lady Lawson Street][].  Head to floor M (top floor) and
-you will be directed to the meeting.
+We meet in Edinburgh on the second Thursday of the month at 18:00
+onwards.  Meetings are held at [CodeBase][], in Argyle House on
+[Castle Terrace][]. Head to into the reception, and you'll be
+directed to the meeting.
 
 [Open Tech Calendar]: https://opentechcalendar.co.uk/group/27-scotrug
 [CodeBase]: http://www.thisiscodebase.com/
-[West Port and Lady Lawson Street]: https://goo.gl/maps/ZuPgH "Map"
+[Castle Terrace]: https://goo.gl/maps/ZuPgH "Map"
 
 
 ## [Mailing List][]
@@ -39,11 +38,13 @@ discussion; feel free to post any questions you may have.
 
 ## [IRC][]
 
-We use the [freenode][] channel [`#scotrug`][IRC].
+We use the [Freenode][] channel [`#scotrug`][IRC]. There's also the [Gitter channel][]
+around the [ScotRUG github repository][].
 
 [freenode]: https://www.freenode.net/
 [IRC]: https://kiwiirc.com/client/irc.freenode.net/scotrug
-
+[Gitter channel]: https://gitter.im/scotrug/scotrug.github.io?source=all-rooms-list
+[ScotRUG github repository]: https://github.com/scotrug
 
 ## [Code of Conduct][]
 
@@ -66,9 +67,6 @@ of [Cultivate][].
 
 
 ## Supported by
-
-[![FreeAgent](/images/freeagent-logo.png)][FreeAgent]
 [![Cultivate](/images/cultivate.png)][Cultivate]
 
-[FreeAgent]: http://www.freeagent.com/
 [Cultivate]: http://www.cultivatehq.com/
