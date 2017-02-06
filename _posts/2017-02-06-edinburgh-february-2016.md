@@ -19,6 +19,6 @@ February is an odd month. Spiced breads and weirdly hollow chocolate can be sens
 
 Something that had come up at a previous meeting but wasn't discussed in January is the subject of test doubles. What are they? What different flavours are there? When should you use them? Does it even matter?
 
-At RubyConf in November, Noel Rappin gave a talk on this subject. So we're going to show the talk, and then discuss it afterwards. Of course, this will also be a time to talk about anything else you'd like.
+At RubyConf in November, [Noel Rappin](http://www.noelrappin.com/) gave a talk on this subject. So we're going to show the talk, and then discuss it afterwards. Of course, this will also be a time to talk about anything else you'd like.
 
-In a change to the regular occurence, there will be some snacks. I think CodeBase also has water available, but feel free to bring along your own juice or water. As always, we're a friendly bunch and newcomers as well as folk who have been before would be most welcome. See you on Thursday!
+In a change to the regular occurrence, there will be some snacks. I think CodeBase also has water available, but feel free to bring along your own juice or water. As always, we're a friendly bunch and newcomers as well as folk who have been before would be most welcome. See you on Thursday!
