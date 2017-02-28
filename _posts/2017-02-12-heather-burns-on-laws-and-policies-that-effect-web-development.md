@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Edinburgh, 9th March 2017 - Heather Burns On Laws and Policies that Effect Web Development
+title: Edinburgh, 9th March 2017 - Heather Burns - Brexit For Geeks
 ---
 
 ### *Where and When?*
@@ -19,7 +19,7 @@ March means that spring has arrived. The days are no longer interrupted by incre
 
 <a href="https://twitter.com/WebDevLaw">Heather Burns</a> is a digital law specialist. She spends her work time trying to bridge the gap between digital policy makers and those who are are designing and developing web things that are impacted by such policies. The things you do online, from sending messages to friends on WhatsApp to starting a new business, are impacted by the decisions of people at local, regional and global levels. Understanding current law and pending law can help inform the choices you need to make as to where you store your data, and what you need to say to your local representatives.
 
-Heather has kindly agreed to come and speak to us and share some thoughts on the current state of digital law. As usual, there will be plenty of time for questions afterwards.
+Heather has kindly agreed to come and speak to us and share some thoughts on the current state of digital law. Given the pending policital and legal changes, she's decided to give a talk called "Brexit for Geeks". As usual, there will be plenty of time for questions afterwards.
 
 We'll supply some snacks to help get your hunger through to dinner. CodeBase has water available from their kitchen but feel free to bring along your own juice or water. We're a friendly bunch of humans and newcomers are most welcome. See some of you there?
 
