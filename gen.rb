@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-puts "Tell me your title"
+puts "Tell me the title of your post"
 title = gets.strip
 
 date = Time.now.strftime('%Y-%m-%d')
