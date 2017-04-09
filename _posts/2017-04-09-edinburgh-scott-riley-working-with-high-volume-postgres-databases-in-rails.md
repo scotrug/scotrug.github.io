@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Edinburgh, 13th April 2017 - Scott Riley - Working with High Volume Postgres Databases in Rails
+title: Edinburgh, 13th April 2017 - Scott Riley, Working with High Volume Postgres Databases in Rails
 ---
 
 ### *Where and When?*
