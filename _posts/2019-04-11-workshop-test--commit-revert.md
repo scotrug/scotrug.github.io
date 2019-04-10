@@ -16,8 +16,8 @@ When you arrive there will be someone in reception who can guide you to the righ
 ## *What?*
 Look! Spring is here! Sunshine and rain, cold wind and the Edinburgh Science festival. Ain't April grand? In the spirit of the Science Festival and exploring ideas...
 
-A few months ago, Kent Beck suggested a programming flow excercise that he dubbed ["test && commit || revert"](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864). Kent is known as one of the originators of [Extreme Programming](https://en.wikipedia.org/wiki/Extreme_programming), and enjoys experimenting with programming flow. `test && commit || revert` pushes the idea of how small you could make a commit, and also always supporting it with tests.
+A few months ago, Kent Beck suggested a programming flow exercise that he dubbed ["test && commit \|\| revert"](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864). Kent is known as one of the originators of [Extreme Programming](https://en.wikipedia.org/wiki/Extreme_programming), and enjoys experimenting with programming flow. `test && commit || revert` pushes the idea of how small you could make a commit, and also always supporting it with tests.
 
-So this evening, we'll run a wee workshop and experiment with test && commit || revert. At the end, we can compare notes. What do we like? What don't we like? What would we try differently next time? Come along with a computer (or indeed be willing to pair up) and we can toy around with some Ruby code.
+So this evening, we'll run a wee workshop and experiment with this style. At the end, we can compare notes. What do we like? What don't we like? What would we try differently next time? Come along with a computer (or indeed be willing to pair up) and we can toy around with some Ruby code.
 
 As always, CodeBase has water available from their kitchen to keep you hydrated. We're a friendly bunch of humans and if it's your first time or your fourth year coming along, you'll be most welcome! See you there then? Smashing.
