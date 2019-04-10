@@ -4,7 +4,7 @@ title: Edinburgh, 11th April - Workshop on test && commit || revert
 ---
 
 
-### *Where and When?*
+## *Where and When?*
 Our Edinburgh meeting in April will be in <a href="http://www.thisiscodebase.com/">CodeBase</a> on Thursday the 11th, at 18:00. That's in <a href="http://www.openstreetmap.org/node/2622756843#map=18/55.94652/-3.20081&layers=C">their shiny building on Castle Terrace</a>.
 
 You'll know you're in the right place as "CodeBase" is written across the glass doors.
