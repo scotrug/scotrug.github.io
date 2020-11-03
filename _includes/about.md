@@ -7,24 +7,21 @@ for presentations from members and guests, and a chat about Ruby and
 related subjects.  All are welcome, and there are no subscriptions or
 costs involved.
 
-Meetings are announced in advance on the [mailing list][] and
+Meetings are announced in advance on the [mailing list][], [Meetup][], and
 [Open Tech Calendar][], and follow our [code of conduct].
 
-[Ruby]: https://www.ruby-lang.org/en/
-[Ruby on Rails]: http://rubyonrails.org/
-
-
-## Edinburgh
-
-We meet in Edinburgh on the second Thursday of the month at 18:00
-onwards.  Meetings are held at [CodeBase][], in Argyle House on
-[Castle Terrace][]. Head to into the reception, and you'll be
-directed to the meeting.
-
 [Open Tech Calendar]: https://opentechcalendar.co.uk/group/27-scotrug
-[CodeBase]: http://www.thisiscodebase.com/
-[Castle Terrace]: https://goo.gl/maps/ZuPgH "Map"
+[Ruby]: https://www.ruby-lang.org/en/
+[Ruby on Rails]: https://rubyonrails.org/
 
+
+## Meeting up
+
+We currently meet online on the second Thursday of the month at 18:00.
+Currently we're experimenting with the most appropriate video conferencing
+solution. Links will be posted the day before if you're signed up on [Meetup][].
+
+[Meetup]: https://www.meetup.com/meetup-group-Xwgucjde/
 
 ## [Mailing List][]
 
@@ -38,8 +35,9 @@ discussion; feel free to post any questions you may have.
 
 ## [IRC][]
 
-We use the [Freenode][] channel [`#scotrug`][IRC]. There's also the [Gitter channel][]
-around the [ScotRUG github repository][].
+We have a [Freenode][] channel [`#scotrug`][IRC], though it's quite quiet.
+There's also the [Gitter channel][] around the [ScotRUG github repository][].
+It is also quiet.
 
 [freenode]: https://www.freenode.net/
 [IRC]: https://kiwiirc.com/client/irc.freenode.net/scotrug
@@ -64,9 +62,4 @@ meetup-related social events.
 of [Cultivate][].
 
 [videos]: http://vimeo.com/edgecaseuk/videos
-
-
-## Supported by
-[![Cultivate](/images/cultivate.png)][Cultivate]
-
 [Cultivate]: http://www.cultivatehq.com/
