@@ -4,7 +4,7 @@ title: Truffle Ruby - What Is It, How Do You Start With It?
 ---
 
 ## *Where and When?*
-On the 12th November (the second Thursday of the month), we'll be meeting online, as per 2020 protocols. We'll start the meeting at 18:00. The link will be sent out on Wednesday via our [Meetup page](https://www.meetup.com/meetup-group-Xwgucjde/events/mljltlybcpbqb/edit/). So, sign up there!
+On the 12th November (the second Thursday of the month), we'll be meeting online, as per 2020 protocols. We'll start the meeting at 18:00. The link will be sent out on Wednesday via our [Meetup page](https://www.meetup.com/meetup-group-Xwgucjde/events/mljltlybcpbqb/). So, sign up there!
 
 ## *What?*
 It's been a few months since Scotland based or Scotland adjacent Rubyists got together to chat. It's been a weird year aye? As the nights draw in, Samhain passes and we brace for the cold weather to come, it's time to gather around again, have a blether and dig into some Ruby.
