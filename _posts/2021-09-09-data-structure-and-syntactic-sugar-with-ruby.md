@@ -5,7 +5,7 @@ title: Data structure and syntactic sugar with Ruby
 
 ## *Where and When?*
 Online! We will meet exactly a month after we moved out of the level system. Have you been out there in the wild more often as a result? Your ScotRUG organiser had a recent day out and things have been mostly fine. As mentioned last month, ScotRUG will continue to be online for the next handful of months.
-As usual, it's the second Thursday of the month at 18:00. Time to have a wee break if you're working, meet your virtual friends . So: that's the 12th of March at 18:00. Since we're meeting virtually, we'll send out the link via our [Meetup page for the event](https://www.meetup.com/meetup-group-Xwgucjde/events/mljltlyccmbmb/) closer to the time.
+As usual, it's the second Thursday of the month at 18:00. Time to have a wee break if you're working, meet your virtual friends . So: that's the 9th of September at 18:00. Since we're meeting virtually, we'll send out the link via our [Meetup page for the event](https://www.meetup.com/meetup-group-Xwgucjde/events/mljltlyccmbmb/) closer to the time.
 
 
 ## *What?*
