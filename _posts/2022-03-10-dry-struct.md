@@ -9,7 +9,7 @@ Once again we'll meet online. It'll be Thursday 10th March, at 18:00. We'll be u
 
 ## *What?*
 This month we will explore Dry Struct!
-To code dry-rb website: dry-rb is a collection of next-generation Ruby libraries. You might be familiar with it if you have been using [Hanami](https://hanamirb.org/). We will explore the code for [dry-struct](https://dry-rb.org/gems/dry-struct/1.0/) together, so be ready to dive into some actual ruby code this week !
+To quote dry-rb website: dry-rb is a collection of next-generation Ruby libraries. You might be familiar with it if you have been using [Hanami](https://hanamirb.org/). We will explore the code for [dry-struct](https://dry-rb.org/gems/dry-struct/1.0/) together, so be ready to dive into some actual ruby code this week !
 
 See you tonight !
 J & K
