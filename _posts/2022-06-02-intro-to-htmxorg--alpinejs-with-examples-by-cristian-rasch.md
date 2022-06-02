@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intro to htmx.org⁩ & alpine.js with examples, by Cristian Rasch
+title: Intro to htmx.org & alpine.js with examples, by Cristian Rasch
 ---
 
 ## *When and Where*
