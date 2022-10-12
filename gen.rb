@@ -16,6 +16,12 @@ File.open(file, 'w') do |f|
   f.puts "title: #{title}"
   f.puts "---"
   f.puts
+  f.puts "## *Where and When?*"
+  f.puts
+  f.puts "## *What*"
+  f.puts
+  f.puts "## *Who*"
+  f.puts
 end
 
 editor = ENV['EDITOR']

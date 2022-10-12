@@ -28,7 +28,7 @@ Before editing the website content, you need to install all the project dependen
 To create a new article, open the terminal and run:
 
 ```
-ruby gen.rg
+ruby gen.rb
 ```
 
 The script will ask you for the article title and generate a new markdown file for it under the `_posts` folder named. To write the content of the article, open the new file from your favourite editor and type it below the frontmatter section.
