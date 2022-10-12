@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Turn Left for Bridgetown: An overview of a next-generation static(ish) site generator"
+title: Turn Left for Bridgetown. An overview of a next-generation static(ish) site generator
 ---
 
 ## *Where and When?*
