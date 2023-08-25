@@ -4,7 +4,7 @@ title: Using Ruby on Global Day of Code Retreat, by Sergey Sergyenko
 ---
 
 ## *Where and When?*
-We'll meet on the second Thursday of the month at 18:00: May 12th. Since we're meeting virtually, we'll send out the link via our [Meetup page for the event](https://www.meetup.com/meetup-group-Xwgucjde/events/mljltlydchbqb/) closer to the time.
+We'll meet on the second Thursday of the month at 18:00: May 12th. Since we're meeting virtually, we'll send out the link via our [Meetup page for the event](https://www.meetup.com/scotrug/events/mljltlydchbqb/) closer to the time.
 
 ## *What*
 Sergey Sergyenko will join us from Lithuania and tell us about the idea behind the Global Day of Code Retreat.

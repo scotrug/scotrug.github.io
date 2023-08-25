@@ -40,10 +40,10 @@ You can also create the articles manually. Any changes will show by refreshing t
 To get involved or find out more about the **Scottish Ruby User Group** checkout any of the links below:
 
 * [Website](http://scotrug.org/)
+* [Mastodon](https://ruby.social/@scotrug)
 * [Twitter](https://twitter.com/scotrug)
 * [Github](https://github.com/scotrug)
 * [Meetup.com](https://www.meetup.com/meetup-group-Xwgucjde/)
-* [Open Tech Calendar](https://opentechcalendar.co.uk/group/27-scotrug)
 * [Google groups](https://groups.google.com/g/scotrug)
 
 ## Code of Conduct

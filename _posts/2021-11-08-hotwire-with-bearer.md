@@ -4,7 +4,7 @@ title: Running on Hotwire from Bearer
 ---
 
 ## *Where and When?*
-The second Thursday this month is the 11th of November, and we'll aim to start at our usual time of 18:00. The pandemic is still on, so we're still meeting online; next year will likely bring new experiments. Since we're meeting virtually, we'll send out a link via our [Meetup page for the event](https://www.meetup.com/meetup-group-Xwgucjde/events/mljltlyccpbpb/).
+The second Thursday this month is the 11th of November, and we'll aim to start at our usual time of 18:00. The pandemic is still on, so we're still meeting online; next year will likely bring new experiments. Since we're meeting virtually, we'll send out a link via our [Meetup page for the event](https://www.meetup.com/scotrug/events/mljltlyccpbpb/).
 
 
 ## *What?*

@@ -7,7 +7,7 @@ Ryan MacGillivray will give a quick lightning talk about using Postgres with Rai
 
 Come along and bring your laptop!
 
-It would be nice if you signed up on our [Meetup page](http://www.meetup.com/meetup-group-Xwgucjde/events/221832959/), though.
+It would be nice if you signed up on our [Meetup page](http://www.meetup.com/scotrug/events/221832959/), though.
 
 __Venue__
 

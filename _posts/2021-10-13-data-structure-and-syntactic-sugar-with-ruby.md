@@ -4,7 +4,7 @@ title: Data structures and syntactic sugar with Ruby
 ---
 
 ## *Where and When?*
-We unfortunately had to cancel last month's meetup at the last minute, but are back again this month. Details are largely the same, only the date is different! So: we'll meet online, on the second Thursday of the month at 18:00. Time to have a wee break if you're working, meet your virtual friends . So: that's the 14th of October at 18:00. Since we're meeting virtually, we've sent out the link via our [Meetup page for the event](https://www.meetup.com/meetup-group-Xwgucjde/events/mljltlyccnbsb/).
+We unfortunately had to cancel last month's meetup at the last minute, but are back again this month. Details are largely the same, only the date is different! So: we'll meet online, on the second Thursday of the month at 18:00. Time to have a wee break if you're working, meet your virtual friends . So: that's the 14th of October at 18:00. Since we're meeting virtually, we've sent out the link via our [Meetup page for the event](https://www.meetup.com/scotrug/events/mljltlyccnbsb/).
 
 
 ## *What?*

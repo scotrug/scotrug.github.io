@@ -4,7 +4,7 @@ title: ScotRUG Lockdown Edition (2) 14th May - ViewComponent
 ---
 
 ## *Where and When?*
-Like last month, we'll be meeting up online. It'll be Thursday May the 14th, at 18:00. Unlike last month, we'll be using Google Meet for this meetup. It has a downside that you'll need a Google account, but an upside that it has better moderation tools. We'll send out the link via our [Meetup page](https://www.meetup.com/meetup-group-Xwgucjde/events/270531994/) on the day itself. So sign up there!
+Like last month, we'll be meeting up online. It'll be Thursday May the 14th, at 18:00. Unlike last month, we'll be using Google Meet for this meetup. It has a downside that you'll need a Google account, but an upside that it has better moderation tools. We'll send out the link via our [Meetup page](https://www.meetup.com/scotrug/events/270531994/) on the day itself. So sign up there!
 
 ## *What?*
 The weather has been surprisingly good? So that's nice? I for one am finding that, although I can't be out in it much, my spirits have been lifted by so much sunshine. One of the obvious consequences of the pandemic is that our ability to meet up in person has been, uh, severely curtailed. Amongst the Ruby community for example, the beloved Brighton Ruby has postponed the in person meetup 'til next year. However, they _are_ running an excellent looking Alt conference, at a very reasonable price. You should [check it out](https://alt.brightonruby.com/).

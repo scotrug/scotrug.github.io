@@ -4,7 +4,7 @@ title: Intro to htmx.org & alpine.js with examples, by Cristian Rasch
 ---
 
 ## *When and Where*
-We'll meet on the second Thursday of the month at 18:00 on Thursday, June 9th. Since we're meeting virtually, we'll send out the link via our [Meetup page for the event](https://www.meetup.com/meetup-group-Xwgucjde/events/286037542/) closer to the time.
+We'll meet on the second Thursday of the month at 18:00 on Thursday, June 9th. Since we're meeting virtually, we'll send out the link via our [Meetup page for the event](https://www.meetup.com/scotrug/events/286037542/) closer to the time.
 
 ## *What*
 Cristian Rasch is coming to show off the virtues of combining a couple of modern, declarative JS libraries to help build a simpler front end.

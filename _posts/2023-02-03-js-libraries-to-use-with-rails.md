@@ -8,7 +8,7 @@ title: JS libraries to use with Rails
 Thursday, 9th February 2023, 18:00-19:30
 Online
 
-Register from [meetup.com](https://www.meetup.com/meetup-group-xwgucjde/events/290956169/) to get the video link on the day! 
+Register from [meetup.com](https://www.meetup.com/scotrug/events/290956169/) to get the video link on the day! 
 
 ## *What*
 

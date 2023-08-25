@@ -36,4 +36,4 @@ Original post:
 > [OpenTechCalendar](https://opentechcalendar.co.uk/event/3617-glasgow-ruby-group)
 > event pages.
 
-[Meetup]: http://www.meetup.com/meetup-group-Xwgucjde/events/230052835/
+[Meetup]: http://www.meetup.com/scotrug/events/230052835/

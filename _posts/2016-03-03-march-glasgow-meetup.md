@@ -21,4 +21,4 @@ event pages.
 
 See you there!
 
-[Meetup]: http://www.meetup.com/meetup-group-Xwgucjde/events/229229142/
+[Meetup]: http://www.meetup.com/scotrug/events/229229142/

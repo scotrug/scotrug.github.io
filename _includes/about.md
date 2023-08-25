@@ -2,17 +2,28 @@
 
 The Scottish Ruby User Group is a collection of people who are linked
 with Scotland and have an interest in [Ruby][] and [Ruby on Rails][].
-We meet every month in [Edinburgh](#edinburgh)
+
+We meet every month online and in person in [Edinburgh](#edinburgh)
 for presentations from members and guests, and a chat about Ruby and
-related subjects.  All are welcome, and there are no subscriptions or
+related subjects. 
+
+All are welcome, and there are no subscriptions or
 costs involved.
 
-Meetings are announced in advance on the [mailing list][], [Meetup][], and
-[Open Tech Calendar][], and follow our [code of conduct].
+Meetings are announced in advance on the [mailing list][], [Meetup][], and [Google Group][] and follow our [code of conduct].
 
-[Open Tech Calendar]: https://opentechcalendar.co.uk/group/27-scotrug
+You can also find us on:
+
+* [Mastodon][]
+* [Twitter][]
+* [Slack][]
+
+[Google Group]: https://groups.google.com/g/scotrug
+[Mastodon]: https://ruby.social/@scotrug
+[Twitter]: https://twitter.com/scotrug
 [Ruby]: https://www.ruby-lang.org/en/
 [Ruby on Rails]: https://rubyonrails.org/
+[Slack]: https://scotrug.slack.com
 
 
 ## Meeting up
@@ -21,7 +32,7 @@ We currently meet online on the second Thursday of the month at 18:00.
 Currently we're experimenting with the most appropriate video conferencing
 solution. Links will be posted the day before if you're signed up on [Meetup][].
 
-[Meetup]: https://www.meetup.com/meetup-group-Xwgucjde/
+[Meetup]: https://www.meetup.com/scotrug/
 
 ## [Mailing List][]
 

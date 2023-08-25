@@ -10,7 +10,7 @@ Thursday 14 September, 2023
 
 Online 
 
-Signup and get the link on the day from the [meetup page](https://www.meetup.com/meetup-group-xwgucjde/events/294098919/)
+Signup and get the link on the day from the [meetup page](https://www.meetup.com/scotrug/events/294098919/)
 
 ## *What*
 
