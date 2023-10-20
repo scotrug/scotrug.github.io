@@ -3,7 +3,7 @@ layout: post
 title: Lean Coffee
 ---
 
-## *Where and When?*
+### *Where and When?*
 Once again we'll meet online. It'll be Thursday February the 10th, at 18:00. We'll be using Google Meet for this meetup. We'll send out the link via our [Meetup page](https://www.meetup.com/scotrug/events/mljltlydcdbnb/) on the day itself. So sign up there!
 
 ## *What?*

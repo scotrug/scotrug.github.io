@@ -3,7 +3,7 @@ layout: post
 title: Edinburgh, 16th April 2020 - Typewriter, Adding types to your Ruby code for greater safety
 ---
 
-## *Where and When?*
+### *Where and When?*
 It's April, and we'll be meeting up online on Thursday the 16th, at 18:00.
 
 ## *What?*

@@ -3,7 +3,7 @@ layout: post
 title: ScotRUG Lockdown Edition (2) 14th May - ViewComponent
 ---
 
-## *Where and When?*
+### *Where and When?*
 Like last month, we'll be meeting up online. It'll be Thursday May the 14th, at 18:00. Unlike last month, we'll be using Google Meet for this meetup. It has a downside that you'll need a Google account, but an upside that it has better moderation tools. We'll send out the link via our [Meetup page](https://www.meetup.com/scotrug/events/270531994/) on the day itself. So sign up there!
 
 ## *What?*

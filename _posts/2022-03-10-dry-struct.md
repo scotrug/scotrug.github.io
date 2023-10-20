@@ -3,7 +3,7 @@ layout: post
 title: Dry Struct - A dry-rb ruby library
 ---
 
-## *Where and When?*
+### *Where and When?*
 Oh well, time has been flying, and it's that time of the month again. The sunshine is back in Edinburgh, we get to have longer days and that makes everyone _just_ a tad happier!
 Once again we'll meet online. It'll be Thursday 10th March, at 18:00. We'll be using Google Meet for this meetup. We'll send out the link via our [Meetup page](https://www.meetup.com/scotrug/events/284099967), so sign up there!
 

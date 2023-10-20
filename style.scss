@@ -9,6 +9,11 @@ $dark-blue: #212552;
 $blue:      #3877BC;
 $pale-blue: #B9D2F1;
 $red:       #96233C;
+$font-size--default: 16px;
+$font-size--small: 0.7rem;
+$font-size--x-large: 2.5rem;
+$font-size--large: 2rem;
+$font-size--medium: 1.5rem;
 
 // http://meyerweb.com/eric/tools/css/reset/
 html, body, div, span, applet, object, iframe,
@@ -102,12 +107,13 @@ table {
 }
 
 #left {
-  font-size: 14.4px;
+  font-size: $font-size--default;
   float: left;
   width: 280px;
-  color: $pale-blue;
+  color: $white;
   margin-top: -20px;
-
+  line-height: 1.25;
+  
   a {
     color: $white;
   }
@@ -116,7 +122,7 @@ table {
     padding-top: 20px;
     margin-bottom: 15px;
     letter-spacing: -1px;
-    font-size: 21.6px;
+    font-size: $font-size--large;
     color: $white;
     text-shadow: 1px 1px 1px $black;
   }
@@ -136,7 +142,7 @@ table {
 #posts {
   width: 600px;
   margin-left: 280px;
-  font-size: 14.4px;
+  font-size: $font-size--default;
   padding: 40px 30px 10px;
   background-color: $white;
   border-radius: 15px;
@@ -152,7 +158,7 @@ table {
   h1 {
     margin-left: 80px;
     letter-spacing: -3px;
-    font-size: 42px;
+    font-size: $font-size--x-large;
     color: $white;
     text-shadow: 1px 1px 1px $black;
 
@@ -166,19 +172,28 @@ table {
 .post {
   padding-bottom: 50px;
 
+  &:not(:first-child) {
+    border-top: 1px solid $blue;
+  }
+
   h1, h2, h3 {
     padding-top: 20px;
     padding-bottom: 10px;
+    font-weight: 700;
   }
 
   h2 {
-    font-size: 28.8px;
+    font-size: $font-size--large;
     color: $red;
 
     a {
       color: inherit;
       text-decoration: none;
     }
+  }
+
+  h3 {
+    font-size: $font-size--medium;
   }
 
   li {
@@ -190,7 +205,7 @@ table {
   }
 
   .date {
-    font-size: 8.6px;
+    font-size: $font-size--small;
     padding-bottom: 10px;
   }
 }
@@ -203,7 +218,7 @@ table {
   background: url(/images/twitter-white.png) no-repeat left top;
   background-size: 32px 32px;
   color: $white;
-  font-size: 14.4px;
+  font-size: $font-size--default;
   float: right;
   height: 32px;
   margin-top: 17px;

@@ -3,7 +3,7 @@ layout: post
 title: Edinburgh, 9th January 2020 - New Year, New Decade, Same Scotrug
 ---
 
-## *Where and When?*
+### *Where and When?*
 This January, we will be back in <a href="http://www.thisiscodebase.com/">CodeBase</a> on Thursday the 9th, at 18:00. That's in <a href="http://www.openstreetmap.org/node/2622756843#map=18/55.94652/-3.20081&layers=C">their shiny building on Castle Terrace</a>.
 
 You'll know you're in the right place as "CodeBase" is written across the glass doors.

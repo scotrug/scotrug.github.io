@@ -3,7 +3,7 @@ layout: post
 title: Truffle Ruby - What Is It, How Do You Start With It?
 ---
 
-## *Where and When?*
+### *Where and When?*
 On the 12th November (the second Thursday of the month), we'll be meeting online, as per 2020 protocols. We'll start the meeting at 18:00. The link will be sent out on Wednesday via our [Meetup page](https://www.meetup.com/scotrug/events/mljltlybcpbqb/). So, sign up there!
 
 ## *What?*

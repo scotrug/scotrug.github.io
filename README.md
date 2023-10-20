@@ -7,19 +7,14 @@ The source for the [Scottish Ruby User Group](http://scotrug.org/) site, run wit
 
 ## Running the site locally
 
-To run the site locally you should have [Docker and docker-compose installed](https://docs.docker.com/get-docker/).
+To run the site locally you should:
+1. Clone the repository
+2. Run `bundle install`
+3. Run `bundle exec jekyll serve`
 
-Then, clone this repository.
+Your local version of the site is now running on port 4000 and can be viewed on `http://localhost:4000`.
 
-When that is done, simply open the terminal, cd to the folder where you've cloned the repo and run:
-
-```
-docker-compose up
-```
-
-Your local version of the site is now running on port 3000 of your docker host and can be viewed on `http://0.0.0.0:3000`.
-
-## Create a  new article
+## Create a new article
 
 At the moment, all articles are listed in reverse chronological order in the homepage.
 
@@ -43,7 +38,7 @@ To get involved or find out more about the **Scottish Ruby User Group** checkout
 * [Mastodon](https://ruby.social/@scotrug)
 * [Twitter](https://twitter.com/scotrug)
 * [Github](https://github.com/scotrug)
-* [Meetup.com](https://www.meetup.com/meetup-group-Xwgucjde/)
+* [Meetup.com](https://www.meetup.com/scotrug/)
 * [Google groups](https://groups.google.com/g/scotrug)
 
 ## Code of Conduct

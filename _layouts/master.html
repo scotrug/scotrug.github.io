@@ -15,19 +15,19 @@
     {% endif %}
   </head>
   <body>
-    <div class="header">
+    <header class="header">
       <a class="twitter-link" href="http://twitter.com/scotrug">Follow us on Twitter</a>
       <h1><a href="/">Scottish Ruby User Group</a></h1>
-    </div>
-    <div id="content">
-      <div id="left">
+    </header>
+    <main id="content">
+      <sidebar id="left">
         {% capture about %}{% include about.md %}{% endcapture %}
         {{ about | markdownify }}
-      </div>
+      </sidebar>
       <div id="posts">
         {{ content }}
       </div>
       <div class="reset_float"></div>
-    </div>
+    </main>
   </body>
 </html>

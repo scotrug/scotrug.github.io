@@ -3,7 +3,7 @@ layout: post
 title: Edinburgh, 11th July 2019 - Code Reading
 ---
 
-## *Where and When?*
+### *Where and When?*
 Our Edinburgh meeting in July will be in our alternate venue:  <a href="https://freeagent.com">FreeAgent</a> have offered to host us on Thursday the 11th, at 18:00. That's in <a href="https://www.openstreetmap.org/node/1947292751">their Edinburgh offices on Fountainbridge</a>.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2234.3551826490125!2d-3.211036448761384!3d55.94321558466258!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c7a19ec94a03%3A0xd6cfb298b5f7b12f!2sFreeAgent!5e0!3m2!1sen!2suk!4v1550591379068" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>

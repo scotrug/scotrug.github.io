@@ -3,7 +3,7 @@
 The Scottish Ruby User Group is a collection of people who are linked
 with Scotland and have an interest in [Ruby][] and [Ruby on Rails][].
 
-We meet every month online and in person in [Edinburgh](#edinburgh)
+We meet every month online and in person in Edinburgh
 for presentations from members and guests, and a chat about Ruby and
 related subjects. 
 
@@ -34,7 +34,7 @@ solution. Links will be posted the day before if you're signed up on [Meetup][].
 
 [Meetup]: https://www.meetup.com/scotrug/
 
-## [Mailing List][]
+## Mailing List
 
 You can browse and subscribe to the list using the
 [ScotRUG Google Group information page][mailing list].  The list is
@@ -44,7 +44,7 @@ discussion; feel free to post any questions you may have.
 [mailing list]: https://groups.google.com/forum/#!forum/scotrug
 
 
-## [IRC][]
+## IRC
 
 We have a [Freenode][] channel [`#scotrug`][IRC], though it's quite quiet.
 There's also the [Gitter channel][] around the [ScotRUG github repository][].
@@ -55,7 +55,7 @@ It is also quiet.
 [Gitter channel]: https://gitter.im/scotrug/scotrug.github.io?source=all-rooms-list
 [ScotRUG github repository]: https://github.com/scotrug
 
-## [Code of Conduct][]
+## Code of Conduct
 
 To ensure we provide a welcoming and friendly environment for all,
 attendees, speakers, organisers, and volunteers at any ScotRUG meetup
@@ -67,7 +67,7 @@ meetup-related social events.
 [code of conduct]: /code_of_conduct.html
 
 
-## [Videos][]
+## Videos
 
 [Videos of previous presentations][videos] have been provided courtesy
 of [Cultivate][].

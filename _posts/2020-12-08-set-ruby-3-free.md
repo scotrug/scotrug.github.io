@@ -3,7 +3,7 @@ layout: post
 title: Set Ruby 3 Free
 ---
 
-## *Where and When?*
+### *Where and When?*
 On the 10th December (the second Thursday of the month), we'll be meeting online for the final time in 2020. We'll start the meeting at 18:00. The link will be sent out on Wednesday via our [Meetup page](https://www.meetup.com/scotrug/events/mljltlybcqbnb). So, sign up there!
 
 ## *What?*

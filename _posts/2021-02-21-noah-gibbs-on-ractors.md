@@ -3,7 +3,7 @@ layout: post
 title: Noah Gibbs on Ractors - 11th March
 ---
 
-## *Where and When?*
+### *Where and When?*
 Another lockdown edition of ScotRUG's meet ups will be heading your way this March. As usual, it's the second Thursday of the month at 18:00. Time to have a wee break if you're working, but not lean into your evenings too much. So: that's the 11th of March at 18:00. Since we're meeting virtually, we'll send out the link via our [Meetup page for the event](https://www.meetup.com/scotrug/events/mljltlyccfbpb/) closer to the time
 
 

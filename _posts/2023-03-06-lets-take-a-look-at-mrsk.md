@@ -3,11 +3,11 @@ layout: post
 title: Let's take a look at MRSK
 ---
 
-## *Where and When?*
+### *Where and When?*
 
 Thursday 16th March 2023, 18:00-19:30, online
 
-## *What*
+### *What*
 
 [MRSK](https://github.com/mrsked/mrsk) is a new deployment system from 37signals, which they pitch as "Capistrano for containers".
 

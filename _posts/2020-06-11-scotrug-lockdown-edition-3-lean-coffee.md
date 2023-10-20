@@ -3,7 +3,7 @@ layout: post
 title: ScotRUG Lockdown Edition (3) 11th June - Lean Coffee
 ---
 
-## *Where and When?*
+### *Where and When?*
 Like last month, we'll be meeting up online. It'll be Thursday June the 11th, at 18:00. We'll be using Google Meet for this meetup. We'll send out the link via our [Meetup page](https://www.meetup.com/scotrug/events/mljltlybcjbpb/) on the day itself. So sign up there!
 
 ## *What?*

@@ -3,7 +3,7 @@ layout: post
 title: Parsing DSLs with Treetop - Mila Kirova
 ---
 
-## *Where and When?*
+### *Where and When?*
 Online! Things in Scotland will, for the first time in over a year, [move out of the Level system](https://www.gov.scot/news/scotland-to-move-beyond-level-0/) come Monday the 9th of August. However, ScotRUG will continue to be online for the next handful of months. As usual, it's the second Thursday of the month at 18:00. Time to have a wee break if you're working, but not lean into your evenings too much. So: that's the 12th of March at 18:00. Since we're meeting virtually, we'll send out the link via our [Meetup page for the event](https://www.meetup.com/scotrug/events/mljltlycclbqb/) closer to the time.
 
 

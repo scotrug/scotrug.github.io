@@ -44,7 +44,7 @@ __Venue__
 FreeAgent kindly provide us with a warm venue and a variety of drinks.
 See you at 7.30pm at [FreeAgent, 40 Torphichen Street, EH3 8JB](http://maps.google.com/maps?q=EH3+8JB&hl=en&ll=55.946797,-3.213351&spn=0.009781,0.024226&client=safari&oe=UTF-8&hnear=Edinburgh+EH3+8JB,+United+Kingdom&t=m&z=16&vpsrc=6).
 
-You can sign up on Lanyrd [here](http://lanyrd.com/2014/scotrug-edinburgh-october/) so that we can have an idea of numbers.
+You can [sign up on Lanyrd](http://lanyrd.com/2014/scotrug-edinburgh-october/) so that we can have an idea of numbers.
 
 __New to ScotRUG?__
 

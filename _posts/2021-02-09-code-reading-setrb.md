@@ -3,7 +3,7 @@ layout: post
 title: Code Reading A Core Ruby Class
 ---
 
-## *Where and When?*
+### *Where and When?*
 Remote is still key, though we passed 1\_000\_000 Scots who've had at least their first vaccination this week. So, let's meetup again this Thursday the 11th of February at 18:00, in an online fashion. We'll be using Google Meet again this month. We'll send out the link via our [Meetup page](https://www.meetup.com/scotrug/events/mljltlyccdbpb/)
 
 

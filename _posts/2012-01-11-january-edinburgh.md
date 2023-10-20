@@ -9,4 +9,4 @@ Thanks to strategic powercuts and other ridiculous problems, the December ScotRU
 * [Sam Elliott](https://twitter.com/lenary) will be taking us on a magical mystery tour of the more obscure (read exciting) corners of Ruby's core classes and Standard Lib.
 * [Paul Wilson](https://twitter.com/paulanthonywils) will be giving a quick demo of Mountable Apps in Rails 3.1.x. 
 
-You may also sign up on Lanyrd [here](http://lanyrd.com/2012/scotrug-january/).
+You may also [sign up on Lanyrd](http://lanyrd.com/2012/scotrug-january/).
