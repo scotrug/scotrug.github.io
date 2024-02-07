@@ -8,8 +8,11 @@ title: Yatzy Refactoring Kata workshop
 Thursday 15th February, 2024
 From 18:00 until 19:30
 
-Hybrid event - online and at the FreeAgent offices, 1 Fountainbridge, 
-Edinburgh
+Hybrid event - online and at the FreeAgent offices:
+
+One Edinburgh Quay
+133 Fountainbridge
+Edinburgh EH3 9QG
 
 ### *What*
 
