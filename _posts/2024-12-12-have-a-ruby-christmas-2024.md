@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Merry Ruby Christmas 2023 !
+title: Merry Ruby Christmas 2024 !
 ---
 
 ### *Where and When?*
