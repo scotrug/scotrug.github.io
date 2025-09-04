@@ -10,4 +10,15 @@ We'll be meeting at 18:00 on the 11th of September at [FreeAgent](https://www.fr
 
 ### *What*
 
-...a meetup, a presentation, some lovely chat with other Ruby folks, and some learning. More will be revealed soon!
+...a meetup, a presentation, some lovely chat with other Ruby folks, and some learning. 
+
+Longtime ScotRUG member [Colin Gemmell](@pythonandchips.bsky.social‬) is going to give us a talk about work he's been doing to update the legendary JavaScript at his work:
+
+**Replacing React with Hotwire**
+
+> Using React back in 2011 for the front end of a interactive page was pretty much a no-brainer but at FreeAgent it never really worked out that well.  With a dev team that is overwhelmingly filled with rails developers making changes to a critical part of the app written in React was slow work and often feel to a single team. Earlier this year we decided to start the process of removing React from the code base.
+In this talk I'll go through more of the motivation for removing react and how we have already replaced part of the react with hotwire and look ahead to how we might remove the rest.
+
+
+
+This month, we're kindly hosted by [FreeAgent](https://freeagent.com) - Accounting Software for your small business, built in sunny Scotland
