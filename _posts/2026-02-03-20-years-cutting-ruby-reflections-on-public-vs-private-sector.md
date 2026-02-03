@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 20 years cutting Ruby\: reflections on public vs private sector
+title: 20 years cutting Ruby - reflections on public vs private sector
 ---
 
 Happy 2026 everyone! February is here, we've seen the tiniest glimpses of sun in the sky, and the days are definitely getting longer. What a time to come together to chat about Ruby things. This month we're joined by Josh Pencheon, who's been using Ruby for 20 years working in the civil service and in the private sector. Looking back on it, he traces the similarities, differences, but mainly what he's learned along the way.
@@ -9,6 +9,10 @@ Happy 2026 everyone! February is here, we've seen the tiniest glimpses of sun in
 We're delighted to be hosted by [FreeAgent](https://freeagent.com) again this month, in their lovely offices on Fountainbridge in Edinburgh. They'll supply food and refreshments in [their office on Fountainbridge](https://maps.app.goo.gl/StGTB9Sz6GdV7jao7), just behind the canal basin and next to the Tesco.
 
 There will be a couple of friendly folks to let you upstairs until about 18:15
+
+### *When*
+
+Thursday 12 February, 2026
 
 Agenda
 * Doors open from 18:00 for socialising/networking
